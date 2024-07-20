@@ -1,4 +1,4 @@
-/*package com.todoalura.todo_app.dto;
+package com.todoalura.todo_app.dto;
 
 import lombok.Data;
 
@@ -22,4 +22,3 @@ public class UserDto {
     @Size(min = 8, message = "Password must be at least 8 characters long")
     private String password;
 }
-*/

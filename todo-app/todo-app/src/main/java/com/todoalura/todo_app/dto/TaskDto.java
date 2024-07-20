@@ -1,4 +1,4 @@
-/*package com.todoalura.todo_app.dto;
+package com.todoalura.todo_app.dto;
 
 import lombok.Data;
 import javax.validation.constraints.NotBlank;
@@ -18,4 +18,4 @@ public class TaskDto {
     private LocalDate dueDate;
 
     private boolean completed;
-}*/
+}
